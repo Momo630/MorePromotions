@@ -72,19 +72,19 @@
   {
      "name": "Air Mobile I",
      "prerequisites": ["Post Rank"],
-     "uniques": ["May Paradrop up to [+2] tiles from inside friendly territory","Only available <after discovering [Flight]>"],
+     "uniques": ["May Paradrop up to [Land] tiles up to [2] tiles away <in [Friendly Land] tiles>","Only available <after discovering [Flight]>"],
      "unitTypes": ["Ranged Gunpowder","Gunpowder","Armored","Siege","Sword","Mounted","Archery","Scout"]
   },
   {
      "name": "Air Mobile II",
      "prerequisites": ["Air Mobile I"],
-     "uniques": ["May Paradrop up to [+2] tiles from inside friendly territory","Only available <after discovering [Flight]>"],
+     "uniques": ["May Paradrop up to [Land] tiles up to [2] tiles away <in [Friendly Land] tiles>","Only available <after discovering [Flight]>"],
      "unitTypes": ["Ranged Gunpowder","Gunpowder","Armored","Siege","Sword","Mounted","Archery","Scout"]
   },
   {
      "name": "Air Mobile III",
      "prerequisites": ["Air Mobile II"],
-     "uniques": ["May Paradrop up to [+3] tiles from inside friendly territory","Only available <after discovering [Flight]>"],
+     "uniques": ["May Paradrop up to [Land] tiles up to [3] tiles away <in [Friendly Land] tiles>","Only available <after discovering [Flight]>"],
      "unitTypes": ["Ranged Gunpowder","Gunpowder","Armored","Siege","Sword","Mounted","Archery","Scout"]
   },
  
